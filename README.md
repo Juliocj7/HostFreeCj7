@@ -29,7 +29,7 @@
 
 
 
-* Remake de:
+* Super Remake de:
 * [Irparpayaña](https://github.com/HackeRStrategy/Irparpaya-a) by HackeRStrategy
 
 ## HostCj7 :
