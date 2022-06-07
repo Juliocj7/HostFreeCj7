@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,13 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220521-222746_Termux](https://user-images.githubusercontent.com/81049859/169680414-32638ca3-fde2-4d4c-ac6a-5b6bbab8fd7e.png)
-
-
-
-
 
 * Super Remake de:
 * [Irparpayaña](https://github.com/HackeRStrategy/Irparpaya-a) by HackeRStrategy
@@ -46,8 +40,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/HostCj7 `
 
 * ` cd HostCj7 `
