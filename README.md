@@ -23,12 +23,12 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220521-222746_Termux](https://user-images.githubusercontent.com/81049859/169680414-32638ca3-fde2-4d4c-ac6a-5b6bbab8fd7e.png)
+![Screenshot_20220720-190342_Termux](https://user-images.githubusercontent.com/81049859/180097367-36ec092f-47dd-4b4f-b5ef-d43c20f1b095.png)
 
 * Super Remake de:
 * [Irparpayaña](https://github.com/HackeRStrategy/Irparpaya-a) by HackeRStrategy
 
-## HostCj7 :
+## HostFreeCj7 :
 * Herramienta diseñada para sacar la mayor informacion de páginas web y crear payload de inyección (sacar metodos de internet ilimitado).
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
@@ -44,13 +44,13 @@ https://github.com/Juliocj7/UtilsCj7
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* ` git clone https://github.com/Juliocj7/HostCj7 `
+* ` git clone https://github.com/Juliocj7/HostFreeCj7 `
 
-* ` cd HostCj7 `
+* ` cd HostFreeCj7 `
 
 * ` chmod +x * `
 
-* ` ./HostCj7 `
+* ` ./HostFreeCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
