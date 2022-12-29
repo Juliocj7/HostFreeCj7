@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220720-190342_Termux](https://user-images.githubusercontent.com/81049859/180097367-36ec092f-47dd-4b4f-b5ef-d43c20f1b095.png)
+![Screenshot_20221229-005921_Termux](https://user-images.githubusercontent.com/81049859/209905483-ebe8cd57-6bb4-4e08-84b2-1b363726b26a.png)
 
 * Super Remake de:
 * [Irparpayaña](https://github.com/HackeRStrategy/Irparpaya-a) by HackeRStrategy
