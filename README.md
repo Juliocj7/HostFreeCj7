@@ -45,11 +45,14 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328439](https://github.com/Juliocj7/HostFreeCj7/assets/81049859/19137c1e-f1de-41c4-995e-6209cdd8bd6d)
 
-* Super Remake de:
-* [Irparpayaña](https://github.com/HackeRStrategy/Irparpaya-a) by HackeRStrategy
+<div align="center">
+
+  > Super remake of: [**`Irparpayaña`**](https://github.com/HackeRStrategy/Irparpaya-a)
+
+</div>
 
 ## HostFreeCj7 :
-* Herramienta diseñada para sacar la mayor informacion de páginas web y crear payload de inyección (sacar metodos de internet ilimitado).
+* Herramienta diseñada para sacar la mayor información de páginas web y crear payload de inyección (sacar métodos de internet ilimitado).
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -57,17 +60,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/HostFreeCj7 `
-
-* ` cd HostFreeCj7 `
-
-* ` chmod +x * `
-
-* ` ./HostFreeCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/HostFreeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd HostFreeCj7 && chmod +x * && ./HostFreeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
