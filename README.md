@@ -43,7 +43,7 @@ ______________________________________________________
 </div>
 
 ## Menú Principal :
-![1000328439](https://github.com/Juliocj7/HostFreeCj7/assets/81049859/19137c1e-f1de-41c4-995e-6209cdd8bd6d)
+![1000348823](https://github.com/Juliocj7/HostFreeCj7/assets/81049859/f41b67ef-cdd9-4e1c-b8c1-8b605a0fd1ae)
 
 <div align="center">
 
