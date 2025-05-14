@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000348823](https://github.com/Juliocj7/HostFreeCj7/assets/81049859/f41b67ef-cdd9-4e1c-b8c1-8b605a0fd1ae)
+[![1000348823](https://github.com/user-attachments/assets/8d9c1de0-a817-488e-80b6-8a0b0e16bcb9)](#---)
 
 <div align="center">
 
